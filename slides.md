@@ -102,6 +102,12 @@ Claude Code / Codex / Gemini CLI / Skills / MCP / Hooks ...
 
 </div>
 
+<div class="mt-6 text-center text-sm" style="color: #666;">
+
+従来の Custom Slash Command は Skills に統合された
+
+</div>
+
 ---
 
 # Skillコンテンツの2つの種類
@@ -131,12 +137,6 @@ Claudeにステップを実行させる
 - Claudeが自動で判断して実行することも可能
 
 </div>
-
-</div>
-
-<div class="mt-6 text-center text-sm" style="color: #666;">
-
-従来の Custom Slash Command は Skills に統合された
 
 </div>
 
