@@ -136,7 +136,7 @@ Claudeにステップを実行させる
 
 <div class="mt-6 text-center text-sm" style="color: #666;">
 
-定常業務の自動化には **Task content** が適している
+従来の Custom Slash Command は Skills に統合された（既存の `.claude/commands/` も動作する）
 
 </div>
 
