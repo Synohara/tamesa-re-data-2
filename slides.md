@@ -21,7 +21,7 @@ fonts:
   <div class="intro-info">
     <div class="intro-name">makotyo</div>
     <div class="intro-company">SimpleForm株式会社</div>
-    <div class="intro-role">Data Platform Team</div>
+    <div class="intro-role">Data Engineer</div>
   </div>
   <div class="intro-certs">
     <img src="/badge-data-engineer.png" alt="SnowPro Advanced Data Engineer" class="cert-badge-img" />
