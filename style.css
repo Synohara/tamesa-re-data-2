@@ -1,0 +1,77 @@
+/* SimpleForm-inspired monochrome theme */
+
+:root {
+  --slidev-theme-primary: #000;
+  --slidev-theme-accent: #333;
+}
+
+/* Global slide styles */
+.slidev-layout {
+  font-family: 'Noto Sans JP', 'Yu Gothic', 'YuGothic', 'Hiragino Kaku Gothic ProN', sans-serif;
+  color: #000;
+  background: #fff;
+}
+
+/* Slide title (h1) */
+.slidev-layout h1 {
+  font-weight: 700;
+  color: #000;
+  font-size: 1.8em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #000;
+  margin-bottom: 0.8em;
+}
+
+/* Subtitle / h2 */
+.slidev-layout h2 {
+  font-weight: 700;
+  color: #000;
+  font-size: 1.3em;
+}
+
+/* Strong text */
+.slidev-layout strong {
+  font-weight: 700;
+  color: #000;
+}
+
+/* List items */
+.slidev-layout li {
+  color: #222;
+  line-height: 1.8;
+}
+
+/* Slide number styling */
+.slidev-page-number {
+  color: #666;
+  font-size: 0.85em;
+}
+
+/* Cover/title slide */
+.slidev-layout.cover h1 {
+  border-bottom: none;
+  font-size: 2.2em;
+}
+
+/* Center layout */
+.slidev-layout.center h1 {
+  border-bottom: none;
+}
+
+/* Code blocks - keep monochrome feel */
+.slidev-layout pre {
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+}
+
+/* Blockquote - accent bar */
+.slidev-layout blockquote {
+  border-left: 4px solid #000;
+  padding-left: 1em;
+  color: #333;
+}
+
+/* Arrow/emphasis text */
+.slidev-layout p {
+  line-height: 1.8;
+}
