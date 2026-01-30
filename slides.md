@@ -127,8 +127,8 @@ Claudeの知識を拡張する
 Claudeにステップを実行させる
 
 - デプロイ、コミット、コード生成
-- `/skill-name` で直接呼び出す
-- `disable-model-invocation: true` で自動起動を防止
+- `/skill-name` で直接呼び出せる
+- Claudeが自動で判断して実行することも可能
 
 </div>
 
